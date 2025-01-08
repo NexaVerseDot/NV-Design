@@ -3,8 +3,7 @@
 **This repository was created for ux/ui design tasks, where you can track which issues are designed and can be implemented in our products.**
 
 </br>
-
-![Preview](/images/nv-header-for-github.png) 
+ 
 ![lines](/images/lines.png)
 
 # Press Kit
