@@ -4,8 +4,8 @@
 
 </br>
 
+![Preview](/images/nv-header-for-github.png) 
 ![lines](/images/lines.png)
-
 
 # Press Kit
 
