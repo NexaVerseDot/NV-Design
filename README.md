@@ -1,4 +1,4 @@
-# HS-Design
+# NV-Design
 
 **This repository was created for ux/ui design tasks, where you can track which issues are designed and can be implemented in our products.**
 
@@ -12,8 +12,8 @@
 **Bellow you can download press kit if you need our brand marks and logotypes for publishing**
 
 
-## 🗂 Horizontal Systems
-[Horizontal Systems Site](http://horizontalsystems.io)
+## 🗂 Nexa Verse s. r. o.
+[Nexa Verse Site](https://nexvax.com)
 
 ---
 
@@ -23,40 +23,40 @@
 
 * **On Light Background**
 
-![Preview](/images/HS-Logo-on-light-preview.png)
+![Preview](/images/NV-Logo-on-light-preview.png)
 </br>
-**[SVG LOGO](/PressKit/HS-Logo-on-light.svg)** &nbsp;&nbsp;
-**[PNG LOGO](/PressKit/HS-Logo-on-light.png)** &nbsp;&nbsp;
-**[SVG MARK](/PressKit/HS-Mark-on-light.svg)** &nbsp;&nbsp;
-**[PNG MARK](/PressKit/HS-Mark-on-light.png)** &nbsp;&nbsp;
+**[SVG LOGO](/PressKit/NV-Logo-on-light.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/PressKit/NV-Logo-on-light.png)** &nbsp;&nbsp;
+**[SVG MARK](/PressKit/NV-Mark-on-light.svg)** &nbsp;&nbsp;
+**[PNG MARK](/PressKit/NV-Mark-on-light.png)** &nbsp;&nbsp;
 
 ---
 
 * **On Dark Background**
 
-![Preview](/images/HS-Logo-on-dark-preview.png)
+![Preview](/images/NV-Logo-on-dark-preview.png)
 </br>
-**[SVG LOGO](/PressKit/HS-Logo-on-dark.svg)** &nbsp;&nbsp;
-**[PNG LOGO](/PressKit/HS-Logo-on-dark.png)** &nbsp;&nbsp;
-**[SVG MARK](/PressKit/HS-Mark-on-dark.svg)** &nbsp;&nbsp;
-**[PNG MARK](/PressKit/HS-Mark-on-dark.png)** &nbsp;&nbsp;
+**[SVG LOGO](/PressKit/NV-Logo-on-dark.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/PressKit/NV-Logo-on-dark.png)** &nbsp;&nbsp;
+**[SVG MARK](/PressKit/NV-Mark-on-dark.svg)** &nbsp;&nbsp;
+**[PNG MARK](/PressKit/NV-Mark-on-dark.png)** &nbsp;&nbsp;
 
 
 ---
 
 * **Monochrome**
 
-![Preview](images/HS-Logo-on-green-preview.png)
+![Preview](images/NV-Logo-on-green-preview.png)
 </br>
-**[SVG LOGO](/PressKit/HS-Logo-monochrome.svg)** &nbsp;&nbsp;
-**[PNG LOGO](/PressKit/HS-Logo-monochrome.png)** &nbsp;&nbsp;
-**[SVG MARK](/PressKit/HS-Mark-monochrome.svg)** &nbsp;&nbsp;
-**[PNG MARK](/PressKit/HS-Mark-monochrome.png)** &nbsp;&nbsp;
+**[SVG LOGO](/PressKit/NV-Logo-monochrome.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/PressKit/NV-Logo-monochrome.png)** &nbsp;&nbsp;
+**[SVG MARK](/PressKit/NV-Mark-monochrome.svg)** &nbsp;&nbsp;
+**[PNG MARK](/PressKit/NV-Mark-monochrome.png)** &nbsp;&nbsp;
 
 ![lines](/images/lines.png)
 
-## 🗂 Unstoppable Wallet
-[Unstoppable Wallet Site](http://unstoppable.money)
+## 🗂 Termite Wallet
+[Unstoppable Wallet Site](https://nexvax.app)
 
 ---
 
@@ -66,34 +66,34 @@
 
 * **On Light Background**
 
-![Preview](images/UW-Logo-on-light-preview.png)
+![Preview](images/TW-Logo-on-light-preview.png)
 </br>
-**[SVG LOGO](/PressKit/UW-Logo-on-light.svg)** &nbsp;&nbsp;
-**[PNG LOGO](/PressKit/UW-Logo-on-light.png)** &nbsp;&nbsp;
-**[SVG MARK](/PressKit/UW-AppIcon-on-light.svg)** &nbsp;&nbsp;
-**[PNG MARK](/PressKit/UW-AppIcon-on-light.png)** &nbsp;&nbsp;
+**[SVG LOGO](/PressKit/TW-Logo-on-light.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/PressKit/TW-Logo-on-light.png)** &nbsp;&nbsp;
+**[SVG MARK](/PressKit/TW-AppIcon-on-light.svg)** &nbsp;&nbsp;
+**[PNG MARK](/PressKit/TW-AppIcon-on-light.png)** &nbsp;&nbsp;
 
 ---
 
 * **On Dark Background**
 
-![Preview](/images/UW-Logo-on-dark-preview.png)
+![Preview](/images/TW-Logo-on-dark-preview.png)
 </br>
-**[SVG LOGO](/PressKit/UW-Logo-on-dark.svg)** &nbsp;&nbsp;
-**[PNG LOGO](/PressKit/UW-Logo-on-dark.png)** &nbsp;&nbsp;
-**[SVG MARK](/PressKit/UW-AppIcon-on-dark.svg)** &nbsp;&nbsp;
-**[PNG MARK](/PressKit/UW-AppIcon-on-dark.png)** &nbsp;&nbsp;
+**[SVG LOGO](/PressKit/TW-Logo-on-dark.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/PressKit/TW-Logo-on-dark.png)** &nbsp;&nbsp;
+**[SVG MARK](/PressKit/TW-AppIcon-on-dark.svg)** &nbsp;&nbsp;
+**[PNG MARK](/PressKit/TW-AppIcon-on-dark.png)** &nbsp;&nbsp;
 
 ---
 
 * **Monochrome**
 
-![Preview](images/UW-Logo-monochrome-preview2.png)
+![Preview](images/TW-Logo-monochrome-preview2.png)
 </br>
-**[SVG LOGO](/PressKit/UW-Logo-monochrome.svg)** &nbsp;&nbsp;
-**[PNG LOGO](/PressKit/UW-Logo-monochrome.png)** &nbsp;&nbsp;
-**[SVG MARK](/PressKit/UW-AppIcon-monochrome.svg)** &nbsp;&nbsp;
-**[PNG MARK](/PressKit/UW-AppIcon-monochrome.png)** &nbsp;&nbsp;
+**[SVG LOGO](/PressKit/TW-Logo-monochrome.svg)** &nbsp;&nbsp;
+**[PNG LOGO](/PressKit/TW-Logo-monochrome.png)** &nbsp;&nbsp;
+**[SVG MARK](/PressKit/TW-AppIcon-monochrome.svg)** &nbsp;&nbsp;
+**[PNG MARK](/PressKit/TW-AppIcon-monochrome.png)** &nbsp;&nbsp;
 
 ![lines](/images/lines.png)
   
